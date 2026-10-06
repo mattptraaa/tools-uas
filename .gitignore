@@ -11,3 +11,5 @@ npm-debug.log*
 # Sistem
 .DS_Store
 Thumbs.db
+
+gemini.js
